@@ -17,19 +17,22 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ![image_2](https://github.com/user-attachments/assets/b6126a45-78fa-4092-87dc-094b970d5b66)
 
-**3. Open the Boards Manager. Go to Tools > Board > Boards Manager…**
+**3. Open the Boards Manager. Right side this Boards Manager**
 
-![image](https://github.com/user-attachments/assets/5b3cf2e0-27b5-4530-a724-b9810c8d0e9f)
+![image](https://github.com/user-attachments/assets/f97c9a73-0502-4010-b618-5bd63074c4f1)
+
 
 
 **4. Search for ESP8266 and press install button for the “ESP8266 by ESP8266 Community“:**
 
-![image](https://github.com/user-attachments/assets/e11d40ee-233f-4caf-9fe8-10d0a01e65db)
+![image](https://github.com/user-attachments/assets/7c246886-8d1f-4485-94b2-a2066f49085e)
+
 
 
 **5. That’s it. It should be installed after a few seconds.**
 
-![image](https://github.com/user-attachments/assets/d1cd411e-477b-4375-a9cf-a1cbe1c96622)
+![image](https://github.com/user-attachments/assets/8c32add5-c846-4064-aea0-823799d14e5f)
+
 
 
 
